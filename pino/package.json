@@ -1,0 +1,14 @@
+{
+  "name": "pino_sensor_logger",
+  "version": "1.0.0",
+  "description": "logs sensor data locally and uploads to cloud",
+  "main": "pino_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun,Ritwik,Shiva",
+  "license": "MIT",
+  "dependencies": {
+    "influx": "^5.0.0-alpha.4"
+  }
+}

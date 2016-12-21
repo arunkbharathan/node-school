@@ -1,0 +1,27 @@
+{
+  "name": "@arunkbharathan/how-to-npm",
+  "version": "1.0.1",
+  "description": "learning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "Arun K Bharathan",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+"devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkbharathan/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arunkbharathan/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/arunkbharathan/how-to-npm#readme"
+}

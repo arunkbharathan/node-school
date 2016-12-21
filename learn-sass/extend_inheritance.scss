@@ -1,0 +1,12 @@
+// Write a rule for the selector .push-button with a background-color: blue,
+// and a rule for the selector .main-button so that it extends .push-button,
+// and also sets the font-weight: bold.
+
+.push-button{
+  background-color: blue;
+}
+
+.main-button{
+  @extend .push-button;
+  font-weight: bold;
+}

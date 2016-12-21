@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block main %}
+   <link href="{% static 'css/style.css' %}" rel="stylesheet">
+   <div class="container">
+       <div class="card card-container">
+           <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
+           <p id="profile-name" class="profile-name-card"></p>
+
+           {% if form.errors %}
+               {{form.non_field_errors}}
+           {% endif %}
+<script>
+function validateForm() {
+    var x = document.forms["LoginForm"]["new_password"].value;
+    var y = document.forms["LoginForm"]["confirm_password"].value;
+    if (x != y) {
+        alert("Error not same");
+        return false;
+    }
+}
+</script>
+           <form class="form-signin" name="LoginForm" action="/app/register/change-password/" onsubmit="return validateForm()"  method="post">
+               {% csrf_token %}
+               <input type="password" name="old_password" id="inputPassword" class="form-control" placeholder="Old Password" required>
+               {% if form.old_password.errors %}
+                   <span class="error">{{ form.old_password.errors.as_text }}</span>
+               {% endif %}
+               <input type="password" name="new_password" id="inputPassword" class="form-control" placeholder="New Password" required>
+               {% if form.new_password.errors %}
+                   <span class="error">{{ form.new_password.errors.as_text }}</span>
+               {% endif %}
+               <input type="password" name="confirm_password" id="inputPassword" class="form-control" placeholder="Confirm Password" required>
+               {% if form.new_password.errors %}
+                   <span class="error">{{ form.new_password.errors.as_text }}</span>
+               {% endif %}
+               <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Submit</button>
+           </form><!-- /form -->
+       </div><!-- /card-container -->
+       <script src="{% static 'js/script.js' %}"></script>
+   </div><!-- /container -->
+   {% comment %}
+
+   {% endcomment %}
+{% endblock %}

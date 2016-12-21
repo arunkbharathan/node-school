@@ -1,0 +1,20 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "learning electron development",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "learn"
+  ],
+  "author": "Arun K Bharathan",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}

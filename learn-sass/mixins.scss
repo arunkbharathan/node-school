@@ -1,0 +1,8 @@
+// Write a mixin border that accepts a variable $thickness and sets the
+//   border-width style to the value of $thickness. Then, include the mixin in
+//   a rule for the img element, and set its border thickness to 10px.
+
+@mixin border($thickness){
+  border-width:$thickness;
+}
+img {@include border(10px);}

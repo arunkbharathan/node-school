@@ -1,0 +1,12 @@
+  // Write rules for the elements h1 through h6 that set their font-size to be
+  // 24px minus 3px times the heading level, i.e. h1 would have a font-size of
+  // 24px - 3px * 1 equal to 21px, using the @while directive. Compare with the
+  // code of the previous exercise.
+
+  $i:1;
+  @while $i < 7{
+    h#{$i}{
+      font-size: 24px - 3px * $i;
+      $i: $i + 1;
+    }
+  }

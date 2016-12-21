@@ -1,0 +1,1042 @@
+client ready
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925081,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820925082,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925082,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925082,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925082,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925082,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820925083,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925084,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925085,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820925085,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926085,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820926085,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926085,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926085,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926086,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926086,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820926086,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926086,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926086,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820926086,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927087,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820927087,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927087,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927087,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927087,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927087,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820927087,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927088,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927088,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820927088,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820928092,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820928092,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820928092,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929096,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820929096,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929096,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929096,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929096,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929096,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820929096,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929097,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929097,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820929097,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930102,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820930102,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930102,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930102,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930103,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930103,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820930103,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930103,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930103,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820930103,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931107,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820931107,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931107,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931107,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931107,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931107,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820931107,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931108,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931108,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820931108,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820932113,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820932113,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820932113,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933118,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820933118,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933118,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933118,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933118,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933119,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820933119,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933119,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933119,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820933119,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820934120,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820934120,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934120,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934121,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820934121,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820935122,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820935122,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935122,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820935123,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936123,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820936123,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936123,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936123,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936123,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936123,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820936123,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936124,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936124,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820936124,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820937129,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820937129,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820937129,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938135,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820938136,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820938136,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820938136,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939137,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820939137,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939137,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939137,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939137,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939137,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820939137,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939138,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939138,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820939138,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940142,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820940142,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940142,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940142,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940142,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940142,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820940142,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940143,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940143,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820940143,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941145,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820941145,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941145,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941145,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941145,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941145,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820941146,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941146,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941146,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820941146,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820942150,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820942150,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820942150,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943153,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820943153,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943153,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943153,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943154,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943154,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820943154,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943154,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943154,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820943154,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820944156,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820944156,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820944156,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820945159,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820945159,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945159,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945160,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820945160,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820946163,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820946163,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820946163,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947166,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820947166,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947166,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947166,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947166,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947166,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820947166,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947167,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947167,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820947167,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948171,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820948171,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948171,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948171,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948171,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948171,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820948172,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948172,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948172,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820948172,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820949174,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820949174,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949174,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820949175,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950179,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820950179,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950179,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950179,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950179,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950182,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820950182,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950182,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950182,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820950182,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820951183,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820951183,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820951183,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820952192,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820952192,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820952192,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820953196,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820953196,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953196,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820953197,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820954197,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820954197,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954197,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820954198,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820955199,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820955199,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820955199,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820956201,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820956201,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956201,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956202,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820956202,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957202,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820957202,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957202,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957202,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957202,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957203,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820957203,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957203,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957203,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820957203,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958208,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820958209,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820958209,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820958209,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959212,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820959212,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959212,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959212,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959212,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959212,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820959213,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959213,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959213,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820959213,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820960218,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820960218,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820960218,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820961219,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820961219,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961219,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820961220,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820962220,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820962220,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820962220,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820963223,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820963223,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820963223,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964228,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820964228,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964228,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964230,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964230,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964230,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820964230,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964231,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964231,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820964231,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965236,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820965236,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965236,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965236,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965236,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965236,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820965236,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965237,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965237,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820965237,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966239,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820966239,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966239,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966239,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966239,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966239,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820966239,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966240,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966240,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820966240,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820967245,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820967245,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820967245,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820968249,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820968249,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820968249,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969253,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820969253,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969253,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969253,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969254,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969254,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820969254,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969254,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969254,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820969254,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820970255,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820970255,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970255,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820970256,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820971261,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820971261,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820971261,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820972263,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820972263,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820972263,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973268,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820973268,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973268,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973268,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973268,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973268,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820973269,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973269,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973269,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820973269,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974270,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820974270,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974270,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974270,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974270,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974270,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820974270,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974271,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974271,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820974271,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820975272,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820975272,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975272,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975273,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820975273,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820976278,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820976278,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820976278,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977279,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820977279,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820977280,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820977280,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820978282,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820978282,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820978282,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979282,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820979282,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979282,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979282,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979282,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979282,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820979282,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979283,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979283,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820979283,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820980285,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820980285,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820980285,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981286,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820981286,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981286,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981286,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981287,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981287,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820981287,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981287,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981287,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820981287,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820982292,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820982292,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820982292,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820983295,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820983295,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983295,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983296,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820983296,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820984299,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820984299,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820984299,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985303,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820985303,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985303,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985303,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985303,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985303,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820985304,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985304,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985304,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820985304,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986309,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820986309,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986309,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986309,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986309,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986309,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820986309,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986310,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986310,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820986310,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987312,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820987313,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820987313,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820987313,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820988319,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820988319,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820988319,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989320,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820989320,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820989321,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989321,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820989322,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990327,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820990327,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990327,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990327,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990327,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990327,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820990327,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990329,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990329,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820990330,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820991336,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820991336,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820991336,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820992337,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820992337,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820992337,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993342,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820993342,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993342,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993342,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993343,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993343,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820993343,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993343,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993343,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820993343,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820994346,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820994346,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820994346,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820995352,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820995352,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820995352,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996353,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820996353,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996353,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996353,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996353,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996353,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820996354,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996354,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996354,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820996354,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997353,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820997353,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997353,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997353,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997353,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997353,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820997354,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997354,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997354,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820997354,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998359,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820998359,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998359,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998359,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998359,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998359,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820998359,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998360,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998360,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820998360,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820999363,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479820999363,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479820999363,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000368,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821000368,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000368,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000368,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000368,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000368,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821000372,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000372,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000372,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821000373,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001379,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821001379,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001379,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001379,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001379,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001379,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821001379,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001380,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001380,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821001380,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002383,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821002383,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002383,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002383,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002383,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002383,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821002383,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002384,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002384,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821002384,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821003385,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821003385,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821003385,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821004387,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821004387,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821004387,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821005392,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821005392,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005392,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821005393,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821006396,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821006396,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821006396,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821007400,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821007400,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821007400,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821008402,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821008402,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821008402,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009403,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821009403,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009403,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009403,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009403,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009403,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821009403,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009404,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009404,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821009404,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010407,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821010407,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010407,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010407,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010407,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010407,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821010407,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010408,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010408,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821010408,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011412,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821011412,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011412,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011412,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011412,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011412,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821011412,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011413,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011413,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821011413,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821012415,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821012415,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821012415,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821013419,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821013419,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821013419,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821014420,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821014420,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821014420,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821015425,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821015425,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821015425,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016429,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821016430,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821016430,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821016430,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821017431,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821017431,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821017431,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821018432,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821018432,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821018432,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821019433,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821019433,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821019433,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020433,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821020433,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020433,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020433,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020433,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020433,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821020434,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020434,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020434,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821020434,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821021437,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821021437,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821021437,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022442,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821022442,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022442,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022442,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022443,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022443,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821022443,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022443,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022443,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821022443,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023446,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821023446,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023446,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023446,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023446,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023446,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821023446,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023447,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023447,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821023447,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821024451,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821024451,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821024451,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025453,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821025453,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025453,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025453,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025453,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025453,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821025453,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025454,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025454,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821025454,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821026455,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821026455,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026455,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026456,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821026456,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821027459,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821027459,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027459,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821027460,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"hello world","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821028463,"msg":"this is at error level","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"the answer is 42","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"hello world","obj":42,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"hello world","obj":42,"b":2,"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"another","obj":{"aa":"bbb"},"v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":50,"time":1479821028463,"msg":"an error","type":"Error","stack":"Error: an error\n    at Timeout.sample [as _onTimeout] (/Users/arunkb/Desktop/pino/pino2.js:31:13)\n    at ontimeout (timers.js:365:14)\n    at tryOnTimeout (timers.js:237:5)\n    at Timer.listOnTimeout (timers.js:207:5)","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"hello child!","a":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"hello baby..","a":"property","another":"property","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821028463,"msg":"after setImmediate","v":1}
+{"pid":7213,"hostname":"Aruns-MacBook-Pro.local","name":"sensor","level":30,"time":1479821029468,"msg":"hello world","v":1}

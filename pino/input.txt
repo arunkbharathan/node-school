@@ -1,0 +1,4 @@
+{"pid":2269,"hostname":"Aruns-MacBook-Pro.local","name":"debug","level":30,"time":1479797546647,"msg":"Client start","v":1}
+{"pid":2269,"hostname":"Aruns-MacBook-Pro.local","name":"debug","level":30,"time":1479797547650,"msg":"This should not be logged","v":1}
+{"pid":2269,"hostname":"Aruns-MacBook-Pro.local","name":"debug","level":30,"time":1479797548659,"msg":"This should not be logged","v":1}
+{"pid":2269,"hostname":"Aruns-MacBook-Pro.local","name":"debug","level":30,"time":1479797549660,"msg":"This should not be logged","v":1}
