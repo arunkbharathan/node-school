@@ -1,31 +1,38 @@
-# node-school
+# [NodeSchool]
 
-planetproto.
-bacon-love  —> not completed
-lololodash.
-expressworks.
-stream-adventure.
-learnyounode.
-scope-chains-closures.
-learnyoumongo.
-async-you.
-how-to-npm -> not completed
-promise-it-wont-hurt.
-bytewiser.
-regex-adventure
-tower-of-babel.
+- [x] planetproto
+- [x] elementary-electron
+- [x] lololodash
+- [x] expressworks
+- [x] stream-adventure
+- [x] learnyounode
+- [x] scope-chains-closures
+- [x] learnyoumongo
+- [x] async-you.
+- [x] promise-it-wont-hurt
+- [x] bytewiser
+- [x] currying-workshopper
+- [x] tower-of-babel
+- [x] how-to-markdown
+- [x] learn-generators
+- [x] goingnative
+- [x] learn-sass
+- [x] test-anything
+- [x] git-it
+- [x] count-to-6
+- [x] esnext-generation
+- [x] torrential 
+- [x] functional-javascript-workshop
+- [ ] how-to-npm
+- [ ] bug-clinic
+- [ ] learnuv
+- [ ] bacon-love
 
-learn-generators.
-bug-clinic —> not completed (complete first)
-goingnative.
-currying-workshopper
+<!-- <div id="center" style="background-color:red">
+	<ul>
+		<li></li>
+	</ul>
+</div> -->
 
 
-npm install -g node-debug-school
-
-count-to-6.
-esnext-generation.
-torrential 
-learnyoubash
-
-functional-javascript-workshop.
+[NodeSchool]: https://nodeschool.io/
