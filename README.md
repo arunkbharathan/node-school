@@ -27,6 +27,7 @@
 - [ ] bug-clinic
 - [ ] learnuv
 - [ ] bacon-love
+- [ ] nodebot-workshop
 
 <!-- <div id="center" style="background-color:red">
 	<ul>
