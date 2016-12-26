@@ -23,6 +23,7 @@
 - [x] esnext-generation
 - [x] torrential 
 - [x] functional-javascript-workshop
+- [ ] regex-adventure
 - [ ] how-to-npm
 - [ ] bug-clinic
 - [ ] learnuv
