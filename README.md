@@ -23,12 +23,12 @@
 - [x] esnext-generation
 - [x] torrential 
 - [x] functional-javascript-workshop
-- [ ] regex-adventure
-- [ ] how-to-npm
+- [x] regex-adventure
+- [x] nodebot-workshop
 - [ ] bug-clinic
+- [ ] how-to-npm
 - [ ] learnuv
 - [ ] bacon-love
-- [ ] nodebot-workshop
 
 <!-- <div id="center" style="background-color:red">
 	<ul>
