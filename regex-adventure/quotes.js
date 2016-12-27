@@ -8,7 +8,7 @@
 // Here's a template that you can use:
 
   module.exports = function (str) {
-    return str.match(/.../g)
+    return str.match(/"(\w+\s?\w+)*"/g) //str.match(/"[^"]*"/g)
   }
 
 // You can use `str.match(regex)` to return an array string matches for `regex`
