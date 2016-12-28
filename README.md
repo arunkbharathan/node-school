@@ -21,10 +21,11 @@
 - [x] git-it
 - [x] count-to-6
 - [x] esnext-generation
-- [x] torrential 
+- [x] torrential
 - [x] functional-javascript-workshop
 - [x] regex-adventure
 - [x] nodebot-workshop
+- [ ] learnyoubash
 - [ ] bug-clinic
 - [ ] how-to-npm
 - [ ] learnuv
