@@ -25,6 +25,7 @@
 - [x] functional-javascript-workshop
 - [x] regex-adventure
 - [x] nodebot-workshop
+- [ ] js-best-practices
 - [ ] learnyoubash
 - [ ] bug-clinic
 - [ ] how-to-npm
