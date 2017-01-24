@@ -32,6 +32,7 @@
 - [ ] how-to-npm
 - [ ] learnuv
 - [ ] bacon-love
+- [ ] browserify
 
 <!-- <div id="center" style="background-color:red">
 	<ul>
