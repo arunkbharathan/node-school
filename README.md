@@ -34,6 +34,9 @@
 - [ ] bacon-love
 - [ ] browserify
 
+other tests includes reactjs, webpack, browserify
+dnode added 
+
 <!-- <div id="center" style="background-color:red">
 	<ul>
 		<li></li>
