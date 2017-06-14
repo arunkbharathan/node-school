@@ -1,0 +1,21 @@
+{
+  "name": "fcmtest",
+  "version": "1.0.0",
+  "description": "firebase database access test",
+  "main": "fcmDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "database",
+    "firecloud"
+  ],
+  "author": "Arun K Bharathan",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.1.2",
+    "firebase-admin": "^5.0.0",
+    "firebase-tools": "^3.9.1"
+  }
+}
