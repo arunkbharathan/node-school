@@ -7,6 +7,7 @@
 using namespace v8;
 
 NAN_METHOD(Delay) {
+  Nan::HandleScope scope;
   Nan::Maybe<int> maybeDelay = Nan::To<int>(info[0]);
 
   if (maybeDelay.IsNothing() == true) {

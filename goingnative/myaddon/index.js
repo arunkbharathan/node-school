@@ -1,3 +1,4 @@
+//OFFLOADING THE WORK
 var addon = require('bindings')('myaddon')
 
 var interval = setInterval(function () {
@@ -8,5 +9,6 @@ addon.delay(process.argv[2], function () {
   clearInterval(interval)
   console.log('Done!')
 })
+
 
 process.stdout.write('Waiting')

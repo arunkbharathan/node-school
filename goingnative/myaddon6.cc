@@ -4,6 +4,8 @@
 using namespace v8;
 
 NAN_METHOD(Length) {
+  Nan::HandleScope scope;
+
   Nan::MaybeLocal<String> maybeStr = Nan::To<String>(info[0]);
   v8::Local<String> str;
 
@@ -12,8 +14,8 @@ NAN_METHOD(Length) {
   }
 
   int len = strlen(*String::Utf8Value(str));
-
-  info.GetReturnValue().Set(len);
+  Local<Number> retnum = Nan::New<Number>(len);
+  info.GetReturnValue().Set(retnum);
 }
 
 NAN_MODULE_INIT(Init) {
